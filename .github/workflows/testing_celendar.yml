@@ -14,5 +14,5 @@ jobs:
       - name: Test Flask app
         run: |
           cd tests
-          python test_indexes.py
+          python test_index.py
       
