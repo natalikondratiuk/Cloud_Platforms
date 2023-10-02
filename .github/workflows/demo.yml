@@ -6,3 +6,8 @@ jobs:
     steps:
       - name: Print to console
         run: echo My first workflow!
+      - name: Deploy my app
+        run: |
+          echo First line
+          echo Second line
+          echo Deploy!
