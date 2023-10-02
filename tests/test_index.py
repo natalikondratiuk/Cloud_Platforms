@@ -1,4 +1,4 @@
-from app import get_next_day
+from Cloud_Platforms.app import get_next_day
 import random
 
 def index_day() :
