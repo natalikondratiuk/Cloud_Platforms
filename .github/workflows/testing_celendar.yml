@@ -20,6 +20,6 @@ jobs:
     needs: test
     steps:
       - name: Simulation of deploying app
-      - run: echo Your application has been deployed successful
+        run: echo Your application has been deployed successful
       
       
